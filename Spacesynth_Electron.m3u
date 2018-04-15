@@ -1,14 +1,28 @@
-http://static.mikseri.net/m/f0e/110000668677/Electron__Riding_the_North_Wind_(full_mix).mp3
-http://static.mikseri.net/m/19f/110000668678/Electron__Symphony_of_the_Fairies_(full_mix).mp3
-http://static.mikseri.net/m/383/120000668679/Electron__In_the_King_Bear's_Territory.mp3
-http://static.mikseri.net/m/2a6/120000668675/Electron__Wolf_Riders.mp3
-http://static.mikseri.net/m/156/120000652809/Electron__Trip_to_Wonderland.mp3
-http://static.mikseri.net/m/800/120000668674/Electron__Black_Eagle.mp3
-http://static.mikseri.net/m/532/120000600037/Electron__Coastline.mp3
-http://static.mikseri.net/m/182/110000615098/Electron__The_Call_of_Wilderness.mp3
-http://static.mikseri.net/m/9b1/110000572463/Electron__The_Victory.mp3
-http://static.mikseri.net/m/690/110000574245/Electron__Lights_of_Stalingrad.mp3
-http://static.mikseri.net/m/c42/120000606115/Electron__Dragon's_Dream.mp3
-http://static.mikseri.net/m/b77/110000552877/Electron__Lunar_Surface.mp3
-http://static.mikseri.net/m/35a/120000509524/Electron__Through_the_Dark_Mountains_(Electron_vs._Dreamtime).mp3
-
+#EXTM3U
+# Playlist created by SMPlayer 15.11.0 
+#EXTINF:308,Electron - Riding the North Wind (full mix)
+http://static.mikseri.net/m/f0e/110000668677.mp3
+#EXTINF:297,Electron - Symphony of the Fairies (full mix)
+http://static.mikseri.net/m/19f/110000668678.mp3
+#EXTINF:379,Electron - In the King Bear's Territory
+http://static.mikseri.net/m/383/120000668679.mp3
+#EXTINF:349,Electron - Wolf Riders
+http://static.mikseri.net/m/2a6/120000668675.mp3
+#EXTINF:320,Electron - Trip to Wonderland
+http://static.mikseri.net/m/156/120000652809.mp3
+#EXTINF:270,Electron - Black Eagle
+http://static.mikseri.net/m/800/120000668674.mp3
+#EXTINF:414,Electron - Coastline
+http://static.mikseri.net/m/532/120000600037.mp3
+#EXTINF:414,Electron - The Call of Wilderness
+http://static.mikseri.net/m/182/110000615098.mp3
+#EXTINF:433,Electron - The Victory
+http://static.mikseri.net/m/9b1/110000572463.mp3
+#EXTINF:391,Electron - Lights of Stalingrad
+http://static.mikseri.net/m/690/110000574245.mp3
+#EXTINF:301,Electron - Dragon's Dream
+http://static.mikseri.net/m/c42/120000606115.mp3
+#EXTINF:436,Electron - Lunar Surface
+http://static.mikseri.net/m/b77/110000552877.mp3
+#EXTINF:391,Electron vs. Dreamtime - Through the Dark Mountains
+http://static.mikseri.net/m/35a/120000509524.mp3
